@@ -14,27 +14,29 @@ git clone https://github.com/SHIV000000/LearnMate.git
 cd LearnMate
 ```
 
-**Create a Virtual Environment**
+## Create a Virtual Environment
 
 On macOS/Linux:
-   ```bash
-
-   python3 -m venv venv
-   ```
-Activate the Virtual Environment:
 ```bash
-source venv/bin/activate
- ```
+python3 -m venv venv
+```
 
 On Windows:
 ```bash
 python -m venv venv
 ```
 
-Activate the Virtual Environment:
+## Activate the Virtual Environment:
+
+On Windows:
 ```bash
 .\venv\Scripts\activate
 ```
+On macOS/Linux:
+```bash
+source venv/bin/activate
+ ```
+
 
 Install Dependencies:
 
