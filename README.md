@@ -1,5 +1,5 @@
-# LearnMate
-
+# LearnMate - A STUDY GROUP WEBAPP FOR STUDENTS AND TECHY
+Conceptualized and brought to life LearnMate, a dynamic web application that transcends traditional learning boundaries. This Twitter-inspired platform revolutionizes collaborative learning, providing a space for seamless posting, interactive replying, and fostering insightful discussions among users.
 
 ### Cloning the repository
 
